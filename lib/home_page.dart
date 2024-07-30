@@ -12,7 +12,7 @@ class HomePage extends StatelessWidget {
           title: const Center(
             child: Text(
               "My Second App",
-              style: TextStyle(fontFamily: 'PlaywriteBEVLG', fontSize: 12),
+              style: TextStyle(fontFamily: 'PlaywriteBEVLG', fontSize: 13),
             ),
           ),
           backgroundColor: const Color(0x45678765)),
